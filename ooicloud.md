@@ -1,4 +1,6 @@
-Script to load the CamHD database file, display a single image with a slider.
+OOICloud Overview
+
+1-paragraph description of what the data is with links out to appropriate deeper descriptions, description of the file structure, a preferred image, and a contact point), and either send back by email or – slightly preferred – publish in the camhd repo somewhere?  Please credit whoever is appropriate (any combination of your own institutions, OOI, OOICloud, Pangeo, etc., at the top
 
 The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org)) is comprised... of.... [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/)which...  [CamHD](https://oceanobservatories.org/instrument-class/camhd/).
 
