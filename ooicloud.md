@@ -4,7 +4,7 @@ OOICloud Overview
 
 The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org))comprises 89 scientific platforms with approximately 830 instruments, and provides nearly 5 TB of data each month for the study of the ocean-atmosphere system from the continental margins to the mid-ocean ridges. A core component of OOI is the [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/)which uses a seafloor fiber-optic cable to connect and power the largest array of seafloor oceanographic instruments in the world, delivering data in real-time to shore. 
 
-[CamHD](https://oceanobservatories.org/instrument-class/camhd/).
+[CamHD](https://oceanobservatories.org/instrument-class/camhd/) is a high-definition video camera connected to the OOI's fiber optic cable ate Axial Seamount which is ideal for a wide range of oceanographic, biological and geophysical investigations.
 
 This dataset is available on Azure thanks to the [AIforEarth Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/).
 
