@@ -1,6 +1,6 @@
 Script to load the CamHD database file, display a single image with a slider.
 
-The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org)) is comprised... of.... [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/); details about the GHE algorithm are available [here](https://www.ospo.noaa.gov/Products/atmosphere/ghe/algo.html).
+The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org)) is comprised... of.... [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/)which...  [CamHD](https://oceanobservatories.org/instrument-class/camhd/).
 
 This dataset is available on Azure thanks to the [NOAA Big Data Program](https://www.noaa.gov/organization/information-technology/big-data-program).
 
