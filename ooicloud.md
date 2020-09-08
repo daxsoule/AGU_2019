@@ -1,6 +1,6 @@
 Script to load the CamHD database file, display a single image with a slider.
 
-The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org)) [Global Hydro Estimator](https://www.ospo.noaa.gov/Products/atmosphere/ghe/index.html) (GHE) program produces estimates of global (between -60° and +60° latitude) precipitation every 15 minutes, at ~4km resolution.  Estimates are derived from satellite imagery and data from NOAA's [Global Forecast System](https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs); details about the GHE algorithm are available [here](https://www.ospo.noaa.gov/Products/atmosphere/ghe/algo.html).
+The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org)) is comprised... of.... [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/); details about the GHE algorithm are available [here](https://www.ospo.noaa.gov/Products/atmosphere/ghe/algo.html).
 
 This dataset is available on Azure thanks to the [NOAA Big Data Program](https://www.noaa.gov/organization/information-technology/big-data-program).
 
