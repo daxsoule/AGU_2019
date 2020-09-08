@@ -2,7 +2,7 @@ OOICloud Overview
 
 1-paragraph description of what the data is with links out to appropriate deeper descriptions, description of the file structure, a preferred image, and a contact point), and either send back by email or – slightly preferred – publish in the camhd repo somewhere?  Please credit whoever is appropriate (any combination of your own institutions, OOI, OOICloud, Pangeo, etc., at the top
 
-The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org))comprises 89 scientific platforms with approximately 830 instruments, and provides nearly 5 TB of data each month for the study of the ocean-atmosphere system from the continental margins to the mid-ocean ridges. A core component of OOI is the [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/)which uses a seafloor fiber-optic cable to connect and power the largest array of seafloor oceanographic instruments in the world, delivering data in real-time to shore. 
+The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org))comprises 89 scientific platforms with approximately 830 instruments, and provides nearly 5 TB of data each month for the study of the ocean-atmosphere system from the continental margins to the mid-ocean ridges. A core component of OOI is the [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/) which uses a seafloor fiber-optic cable to connect and power the largest array of seafloor oceanographic instruments in the world, delivering data in real-time to shore. 
 
 [CamHD](https://oceanobservatories.org/instrument-class/camhd/) is a high-definition video camera connected to the OOI's fiber optic cable ate Axial Seamount which is ideal for a wide range of oceanographic, biological and geophysical investigations.
 
@@ -11,7 +11,7 @@ This dataset is available on Azure thanks to the [AIforEarth Open Datasets](http
 
 #### Storage resources 
 
-Data are stored in blobs in gzip'd [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) format in the East US data center, in the following blob container:
+Data are stored in blobs [blob](https://ooiopendata.blob.core.windows.net) format in the East US data center, in the following blob container:
 
 `https://ghe.blob.core.windows.net/noaa-ghe`
 
