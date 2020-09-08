@@ -2,7 +2,7 @@ Script to load the CamHD database file, display a single image with a slider.
 
 The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org)) is comprised... of.... [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/)which...  [CamHD](https://oceanobservatories.org/instrument-class/camhd/).
 
-This dataset is available on Azure thanks to the [NOAA Big Data Program](https://www.noaa.gov/organization/information-technology/big-data-program).
+This dataset is available on Azure thanks to the [AIforEarth Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/).
 
 
 #### Storage resources 
