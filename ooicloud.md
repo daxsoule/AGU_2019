@@ -32,7 +32,7 @@ Large-scale processing using this dataset is best performed in the East US Azure
 
 #### Pretty picture
 
-<img src="https://ai4edatasetspublicassets.blob.core.windows.net/assets/aod_images/ghe.png" width=350px;><br/>
+<img src="https://oceanobservatories.org/wp-content/uploads/2016/01/HD_Camera_Thermisor_OSMO.jpg" width=350px;><br/>
 
 <p style="font-size:80%;margin-left:15px;">Global daily precipitation on April 9, 2020.</p>
 
