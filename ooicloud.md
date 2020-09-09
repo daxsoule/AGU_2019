@@ -15,26 +15,11 @@ All available video files are listed in a [JSON](https://ooiopendata.blob.core.w
 
 For example, this filename:
 
-name                               CAMHDA301-20170920T181500.mov
-
-url            https://ooiopendata.blob.core.windows.net/camh...
-
-filesize                                             15250813073
-
-md5                             eaadcc47dcaf8c7a94bb5b9708179db8
-moov                                                        True
-
-timestamp                                             1505930402
-
-deployment                                                     4
-
-frame_count                                                26953
-
-Name: 7000, dtype: object
+CAMHDA301-20170920T181500.mov
 
 Mounting instructions for Linux are [here](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-how-to-mount-container-linux).
 
-Large-scale processing using this dataset is best performed in the East US Azure data center, where the data is stored. Computational resources are available at 
+Large-scale processing using this dataset is best performed in the East US Azure data center, where the data is stored. Computational resources are available at [ooi.pangeo.io](https://ooi.pangeo.io/)
 
 
 #### Pretty picture
