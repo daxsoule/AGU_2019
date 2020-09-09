@@ -15,8 +15,8 @@ All available video files are listed in a [JSON](https://ooiopendata.blob.core.w
 
 For example, this filename:
 
-. name                               CAMHDA301-20170920T181500.mov
-. url            https://ooiopendata.blob.core.windows.net/camh...
+*name                               CAMHDA301-20170920T181500.mov
+*url            https://ooiopendata.blob.core.windows.net/camh...
 filesize                                             15250813073
 md5                             eaadcc47dcaf8c7a94bb5b9708179db8
 moov                                                        True
