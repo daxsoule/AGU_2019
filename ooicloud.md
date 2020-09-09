@@ -34,7 +34,7 @@ Large-scale processing using this dataset is best performed in the East US Azure
 
 <img src="https://oceanobservatories.org/wp-content/uploads/2016/01/HD_Camera_Thermisor_OSMO.jpg" width=350px;><br/>
 
-<p style="font-size:80%;margin-left:15px;">Global daily precipitation on April 9, 2020.</p>
+<p style="font-size:80%;margin-left:15px;">The HD camera (orange triangular frame) images the 14 ft-tall actively venting hot spring deposit ‘Mushroom’ located within the caldera for Axial Seamount. The vent rests on an old lava flow. Radiating cracks in the flow are filled with white bacterial mats and small tube worms, marking sites of diffusely flowing fluids that issue from the fractures in the basalt. The 3-D temperature array in the background encloses a tube worm bush, sending 24 temperature measurements live to shore every second. Photo Credit: NSF-OOI/UW/CSSF; Dive R1730; V14 </p>
 
 
 #### Contact
