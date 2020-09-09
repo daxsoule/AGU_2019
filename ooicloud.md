@@ -2,14 +2,14 @@ OOICloud Overview
 
 1-paragraph description of what the data is with links out to appropriate deeper descriptions, description of the file structure, a preferred image, and a contact point), and either send back by email or – slightly preferred – publish in the camhd repo somewhere?  Please credit whoever is appropriate (any combination of your own institutions, OOI, OOICloud, Pangeo, etc., at the top
 
-The Ocean Observatories Iniative ([OOI](https://oceanobservatories.org))comprises 89 scientific platforms with approximately 830 instruments, and provides nearly 5 TB of data each month for the study of the ocean-atmosphere system from the continental margins to the mid-ocean ridges. A core component of OOI is the [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/) which uses a seafloor fiber-optic cable to connect and power the largest array of seafloor oceanographic instruments in the world, delivering data in real-time to shore. 
+The [OOICloud Project](https://github.com/ooicloud) is working to make data from the Ocean Observatories Initiative ([OOI](https://oceanobservatories.org)) publically available in the cloud and accessible through a [Pangeo](http://pangeo.io/) interface. A primary goal is to provide these data to the scientific community using a cloud-performant object storage model, and to provide large-scale remote compute capabilities for research investigations. The OOI comprises 89 scientific platforms with approximately 830 instruments, and provides nearly 5 TB of data each month for the study of the ocean-atmosphere system from the continental margins to the mid-ocean ridges. A core component of OOI is the [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/) which uses a seafloor fiber-optic cable to connect and power the largest array of seafloor oceanographic instruments in the world, delivering data in real-time to shore. 
 
 [CamHD](https://oceanobservatories.org/instrument-class/camhd/) is a high-definition video camera connected to the OOI's fiber optic cable ate Axial Seamount which is ideal for a wide range of oceanographic, biological and geophysical investigations. This Jupyter notebook shows how to load video data from the OOI Seafloor Camera system deployed at Axial Volcano on the Juan de Fuca Ridge. It demonstrates the basic usage of the pycamhd library, which can be used to extract frames from the ProRes encoded Quicktime files. These data are hosted on Microsoft's [AIforEarth Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/).
 
 
 #### Storage resources 
 
-Data are stored in blobs [blob](https://ooiopendata.blob.core.windows.net) format in the East US data center, in the following blob container:
+All available video files are listed in a [JSON](https://ooiopendata.blob.core.windows.net/camhd/dbcamhd.json) that has useful information such as the Unix timestamp (seconds) of the first frame in each video, and the total number of frames in each video.  Data are stored in blobs [blob](https://ooiopendata.blob.core.windows.net) format in the East US data center, in the following blob container:
 
 `https://ooiopendata.blob.core.windows.net`
 
