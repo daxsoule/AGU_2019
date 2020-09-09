@@ -15,7 +15,7 @@ All available video files are listed in a [JSON](https://ooiopendata.blob.core.w
 
 For example, this filename:
 
-CAMHDA301-20170920T181500.mov
+"CAMHDA301-20170920T181500.mov" identifies the camera (CAMHDA301) and the start time for the movie (20170920T181500)
 
 Mounting instructions for Linux are [here](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-how-to-mount-container-linux).
 
