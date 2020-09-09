@@ -1,6 +1,6 @@
 ### OOICloud Overview
 
-1-paragraph description of what the data is with links out to appropriate deeper descriptions, description of the file structure, a preferred image, and a contact point), and either send back by email or – slightly preferred – publish in the camhd repo somewhere?  Please credit whoever is appropriate (any combination of your own institutions, OOI, OOICloud, Pangeo, etc., at the top
+#### Columbia University and Queens College CUNY
 
 The [OOICloud Project](https://github.com/ooicloud) is working to make data from the Ocean Observatories Initiative ([OOI](https://oceanobservatories.org)) publically available in the cloud and accessible through a [Pangeo](http://pangeo.io/) interface. A primary goal is to provide these data to the scientific community using a cloud-performant object storage model, and to provide large-scale remote compute capabilities for research investigations. The OOI comprises 89 scientific platforms with approximately 830 instruments, and provides nearly 5 TB of data each month for the study of the ocean-atmosphere system from the continental margins to the mid-ocean ridges. A core component of OOI is the [Regional Cabled Array](https://oceanobservatories.org/regional-cabled-array/) which uses a seafloor fiber-optic cable to connect and power the largest array of seafloor oceanographic instruments in the world, delivering data in real-time to shore. 
 
